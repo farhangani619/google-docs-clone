@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd380d83.css",
-    "main.js": "/static/js/main.29bcbeb4.js",
-    "static/js/787.940b38dc.chunk.js": "/static/js/787.940b38dc.chunk.js",
-    "static/media/tasks.png": "/static/media/tasks.187d41f3175e16ecd678.png",
-    "static/media/maps.png": "/static/media/maps.b7b2b8c70ab1fec064eb.png",
-    "static/media/phone-book.png": "/static/media/phone-book.425fb25eb1932996d650.png",
-    "static/media/google-calendar.png": "/static/media/google-calendar.af5e0819ac19cf3ab7bf.png",
-    "index.html": "/index.html",
-    "main.bd380d83.css.map": "/static/css/main.bd380d83.css.map",
-    "main.29bcbeb4.js.map": "/static/js/main.29bcbeb4.js.map",
-    "787.940b38dc.chunk.js.map": "/static/js/787.940b38dc.chunk.js.map"
+    "main.css": "/farhangani619/google-docs-clone/static/css/main.bd380d83.css",
+    "main.js": "/farhangani619/google-docs-clone/static/js/main.f3f6012f.js",
+    "static/js/787.940b38dc.chunk.js": "/farhangani619/google-docs-clone/static/js/787.940b38dc.chunk.js",
+    "static/media/tasks.png": "/farhangani619/google-docs-clone/static/media/tasks.187d41f3175e16ecd678.png",
+    "static/media/maps.png": "/farhangani619/google-docs-clone/static/media/maps.b7b2b8c70ab1fec064eb.png",
+    "static/media/phone-book.png": "/farhangani619/google-docs-clone/static/media/phone-book.425fb25eb1932996d650.png",
+    "static/media/google-calendar.png": "/farhangani619/google-docs-clone/static/media/google-calendar.af5e0819ac19cf3ab7bf.png",
+    "index.html": "/farhangani619/google-docs-clone/index.html",
+    "main.bd380d83.css.map": "/farhangani619/google-docs-clone/static/css/main.bd380d83.css.map",
+    "main.f3f6012f.js.map": "/farhangani619/google-docs-clone/static/js/main.f3f6012f.js.map",
+    "787.940b38dc.chunk.js.map": "/farhangani619/google-docs-clone/static/js/787.940b38dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd380d83.css",
-    "static/js/main.29bcbeb4.js"
+    "static/js/main.f3f6012f.js"
   ]
 }
